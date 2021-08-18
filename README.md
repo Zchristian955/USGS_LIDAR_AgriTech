@@ -8,15 +8,19 @@ One important ingredient to understanding water flow in a field is by measuring 
 3DEP in a public dataset on Amazon. This dataset is essential to build models of water flow and predict plant health and maize harvest. 
 
 As part of the data engineering team, you are tasked to produce an easy to use, reliable and well designed python module that domain experts and data scientists 
-can use to fetch, visualise, and transform publicly available satellite and LIDAR data. In particular, your code should interface with USGS 3DEP and fetch data using their API. 
+can use to fetch, visualise, and transform publicly available satellite and LIDAR data. In particular, your code should interface[ with USGS 3DEP](https://www.usgs.gov/core-science-systems/ngp/3dep) and fetch data using their API. 
 
 
-So then, the first step is to make: \\
+So then, the first step is to make: \
 
--Data Fetching and Loading \\
-- Terrain Visualization \\
-- Data transformation \\
-- 
+-Library with can directly interact with the api 
+-Data Fetching and Loading \
+- Terrain Visualization \
+- Data transformation \
+
+
+[image](https://github.com/Zchristian955/USGS_LIDAR_AgriTech/blob/20d006a6c6d6b88e38bc5e1d3111cfb932bdf889/image/pet/Figure_3.png)
+
 
 
 
