@@ -20,6 +20,14 @@ So then, the first step is to make:
 
 
 
+### Instalation
+- **Install Required Python Modules**
+``` 
+pip install requirement
+```
+
+
+
 The image below show the raster of the  data downloard with te pipeline
 
 [image](https://github.com/Zchristian955/USGS_LIDAR_AgriTech/blob/20d006a6c6d6b88e38bc5e1d3111cfb932bdf889/image/pet/Figure_3.png)
