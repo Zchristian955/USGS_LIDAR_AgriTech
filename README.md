@@ -11,9 +11,12 @@ As part of the data engineering team, you are tasked to produce an easy to use, 
 can use to fetch, visualise, and transform publicly available satellite and LIDAR data. In particular, your code should interface with USGS 3DEP and fetch data using their API. 
 
 
-So then, the first step is to make:
--Data Fetching and Loading\
+So then, the first step is to make: \\
 
+-Data Fetching and Loading \\
+- Terrain Visualization \\
+- Data transformation \\
+- 
 
 
 
