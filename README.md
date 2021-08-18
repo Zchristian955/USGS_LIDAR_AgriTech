@@ -13,7 +13,7 @@ can use to fetch, visualise, and transform publicly available satellite and LIDA
 
 So then, the first step is to make: \
 
--Library with can directly interact with the api 
+-Library with can directly interact with the api \
 -Data Fetching and Loading \
 - Terrain Visualization \
 - Data transformation \
