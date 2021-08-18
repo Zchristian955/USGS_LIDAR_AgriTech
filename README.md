@@ -23,7 +23,7 @@ So then, the first step is to make:
 ### Instalation
 - **Install Required Python Modules**
 ``` 
-pip install requirement
+pip install requirements packages
 ```
 
 
