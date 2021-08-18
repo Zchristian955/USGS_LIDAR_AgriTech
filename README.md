@@ -11,13 +11,17 @@ As part of the data engineering team, you are tasked to produce an easy to use, 
 can use to fetch, visualise, and transform publicly available satellite and LIDAR data. In particular, your code should interface[ with USGS 3DEP](https://www.usgs.gov/core-science-systems/ngp/3dep) and fetch data using their API. 
 
 
-So then, the first step is to make: \
+So then, the first step is to make: 
 
--Library with can directly interact with the api \
--Data Fetching and Loading \
-- Terrain Visualization \
-- Data transformation \
+-Library with can directly interact with the api 
+-Data Fetching and Loading 
+- Terrain Visualization 
+- Data transformation 
 
+
+
+
+The image below show the raster of the  data downloard with te pipeline
 
 [image](https://github.com/Zchristian955/USGS_LIDAR_AgriTech/blob/20d006a6c6d6b88e38bc5e1d3111cfb932bdf889/image/pet/Figure_3.png)
 
