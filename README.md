@@ -22,6 +22,7 @@ So then, the first step is to make:
 
 ### Instalation
 - **Install Required Python Modules**
+- The pipeline is call iowa.json
 ``` 
 pip install requirements packages
 ```
