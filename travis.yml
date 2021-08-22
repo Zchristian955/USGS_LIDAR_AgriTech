@@ -15,4 +15,4 @@ cache:
 
 # Command to run tests, e.g. python setup.py test
 script:
-  - python -m unittest scripts.script
+  - python -m unittest scripts.script1.py
