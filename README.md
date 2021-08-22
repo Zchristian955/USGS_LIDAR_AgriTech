@@ -27,15 +27,19 @@ So then, the first step is to make:
 pip install requirements packages
 ```
 
-
+# Run this in the ananconda prompt
 ## Create a new environment
 - for pdal 
 ``` 
+$ conda create -n pdalenv
+$ activate pdalenv
 conda install -c conda-forge pdal
 ```
--create another also for geopandas 
+- create another also for geopandas 
 ``` 
-conda install -c conda-forge geopandas
+$ conda create -n geoenv
+$ activate geoenv
+$ conda install -c conda-forge geopandas
 ```
 
 The image below show the raster of the  data downloard with te pipeline
