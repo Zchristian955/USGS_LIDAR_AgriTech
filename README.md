@@ -23,9 +23,7 @@ So then, the first step is to make:
 ### Instalation
 - **Install Required Python Modules**
 - The pipeline is call iowa.json
-``` 
-pip install requirements packages
-```
+
 
 # Run this in the ananconda prompt
 ## Create a new environment
@@ -40,7 +38,21 @@ conda install -c conda-forge pdal
 $ conda create -n geoenv
 $ activate geoenv
 $ conda install -c conda-forge geopandas
+
 ```
+
+- Cloning the reposity  and install all the requirement
+``` 
+$ pip install requirements packages
+```
+
+
+## Scripts and the nootebook
+The scripts and the notebook  provided a tools which can help to eaisly handle task such as get the data,data prepocessing, georefence and data visualisation   
+
+
+
+# Package_Scripts
 
 The image below show the raster of the  data downloard with te pipeline
 
