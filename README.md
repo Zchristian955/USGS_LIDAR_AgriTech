@@ -28,6 +28,15 @@ pip install requirements packages
 ```
 
 
+## Create a new environment
+- for pdal 
+``` 
+conda install -c conda-forge pdal
+```
+-create another also for geopandas 
+``` 
+conda install -c conda-forge geopandas
+```
 
 The image below show the raster of the  data downloard with te pipeline
 
