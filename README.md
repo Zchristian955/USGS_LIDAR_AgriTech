@@ -58,6 +58,7 @@ The package interacts with USGS 3DEP data.
 - ``get_data`` : this one is used plus the hson file to collect the data from the url, paste the script and the jso file on the same folder
 - ``reprojection`` : used to rejected the reproject the data on `WGS84`
 - ``visualisation`` :  create a great data visualisation
+- ``frame_region`` : get the geometry of the farm region  
 
 
 ## Data
