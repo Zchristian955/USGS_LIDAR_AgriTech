@@ -53,6 +53,7 @@ The scripts and the notebook  provided a tools which can help to eaisly handle t
 
 
 # Package_Scripts
+The package interacts with USGS 3DEP data. 
 - ``Boundaries``: using that, to gollect a boundaries of the data
 - ``get_data`` : this one is used plus the hson file to collect the data from the url, paste the script and the jso file on the same folder
 - ``reprojection`` : used to rejected the reproject the data on `WGS84`
@@ -61,7 +62,7 @@ The scripts and the notebook  provided a tools which can help to eaisly handle t
 
 ## Data
 The data is read from the USGS 3DEP AWS Public Dataset using the PDAL package.
-The data collected will be  with the pipeline will be  a laz file and a tiff fill ,  another way to collect directly the  data from the sum url is ("https://s3-us-west-2.amazonaws.com/usgs-lidar-public/IA_FullState/ept.json")
+The data collected will be  with the pipeline will be  a laz file and a tiff fill ,  another way to collect  directly the  data is to use this  url  "https://s3-us-west-2.amazonaws.com/usgs-lidar-public/IA_FullState/ept.json" on the jupyter notebook or whatever the eiteor for python.
 
 ## Raster plot 
 
