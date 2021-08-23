@@ -43,7 +43,7 @@ $ conda install -c conda-forge geopandas
 
 - Cloning the reposity  and install all the requirement
 ``` 
-$ pip install requirements packages
+$ pip install -r requirements.txt 
 ```
 
 
@@ -59,7 +59,9 @@ The scripts and the notebook  provided a tools which can help to eaisly handle t
 - ``visualisation`` :  create a great data visualisation
 
 
-
+## Data
+The data is read from the USGS 3DEP AWS Public Dataset using the PDAL package.
+The data collected will be  with the pipeline will be  a laz file and a tiff fill ,  another way to collect directly the  data from the sum url is ("https://s3-us-west-2.amazonaws.com/usgs-lidar-public/IA_FullState/ept.json")
 
 ## Raster plot 
 
