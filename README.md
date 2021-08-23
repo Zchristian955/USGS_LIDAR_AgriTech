@@ -61,11 +61,12 @@ The scripts and the notebook  provided a tools which can help to eaisly handle t
 
 
 
+## Raster plot 
 
 The image below show the raster of the  data downloard with te pipeline
 
 [image](https://github.com/Zchristian955/USGS_LIDAR_AgriTech/blob/20d006a6c6d6b88e38bc5e1d3111cfb932bdf889/image/pet/Figure_3.png)
-:align: center
+
 
 
 
