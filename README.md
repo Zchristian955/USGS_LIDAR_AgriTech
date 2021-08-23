@@ -1,7 +1,4 @@
 # USGS_LIDAR-_AgriTech_
-.. image:: https://img.shields.io/pypi/pyversions/py3dep.svg
-    :target: https://pypi.python.org/pypi/py3dep
-    :alt: Python Versions
 
 At AgriTech, we are very interested in how water flows through a maize farm field. This knowledge will help us improve our research 
 on new agricultural products being tested on farms.How much maize a field produces is very spatially variable?
@@ -68,6 +65,7 @@ The scripts and the notebook  provided a tools which can help to eaisly handle t
 The image below show the raster of the  data downloard with te pipeline
 
 [image](https://github.com/Zchristian955/USGS_LIDAR_AgriTech/blob/20d006a6c6d6b88e38bc5e1d3111cfb932bdf889/image/pet/Figure_3.png)
+:align: center
 
 
 
