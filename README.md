@@ -70,7 +70,7 @@ The data collected will be  with the pipeline will be  a laz file and a tiff fil
 The image below show the raster of the  data downloard with te pipeline
 
 [image](https://github.com/Zchristian955/USGS_LIDAR_AgriTech/blob/20d006a6c6d6b88e38bc5e1d3111cfb932bdf889/image/pet/Figure_3.png)
-
+![](Picture/image/pet/Figure_3.png)
 
 
 
