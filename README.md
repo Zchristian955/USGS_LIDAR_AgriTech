@@ -11,7 +11,7 @@ As part of the data engineering team, you are tasked to produce an easy to use, 
 can use to fetch, visualise, and transform publicly available satellite and LIDAR data. In particular, your code should interface[ with USGS 3DEP](https://www.usgs.gov/core-science-systems/ngp/3dep) and fetch data using their API. 
 
 
-So then, the first step is to make: 
+So then, the first step is to make : 
 - Library with can directly interact with the api 
 - Data Fetching and Loading 
 - Terrain Visualization 
@@ -20,7 +20,7 @@ So then, the first step is to make:
 
 
 
-### Instalation
+### Instalation of package
 - **Install Required Python Modules**
 - The pipeline is call iowa.json
 
